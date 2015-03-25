@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TryAgains
+title: Slicea
 ---
 
-Services started
+Slicea services has started. Feel free to use the contact form to get ahold of us.
