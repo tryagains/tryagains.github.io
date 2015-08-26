@@ -2,6 +2,14 @@
 layout: page
 permalink: /games/
 ---
+#<a href="/sillyblocks">Silly Blocks</a>
+
+<a href="/sillyblocks">![_config.yml]({{ site.baseurl }}/images/sillyblocks.png)</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.slicea.sillyblocks">Play Android version here</a>
+
+<a href="https://itunes.apple.com/us/app/silly-blocks/id986386043?ls=1&mt=8">Play iOS version here</a>
+
 #Finger Feet
 
 ![_config.yml]({{ site.baseurl }}/images/fingerfeet.png)
